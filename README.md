@@ -11,7 +11,6 @@ Tableau is a visual analytics platform transforming the way we use data to solve
 Why Tableau?
 ----
 
-
 - Easy to Use
 - Handles Copious Amounts of Data
 - Mobile Friendly Dashboard
@@ -20,14 +19,10 @@ Why Tableau?
 
 ## Installation
 ----
-
-
 for tableau installation, I refer to this site https://www.educba.com/install-tableau/
 
 ## Data Insight
 ----
-
-
 for the data i'll save on this site so user can interactive saw the data on [tableau] or go here to download the workbook [git]
 
 
