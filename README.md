@@ -1,7 +1,6 @@
 # Luxury Loan
 
 [![N|Solid](https://public.tableau.com/s/sites/default/files/Tableau-Public-logo.png)]([tableauhelp])
-[![Community Supported](https://img.shields.io/badge/Support%20Level-Community%20Supported-457387.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 
 What is Tableau?
 Tableau is a visual analytics platform transforming the way we use data to solve problems—empowering people and organizations to make the most of their data.
